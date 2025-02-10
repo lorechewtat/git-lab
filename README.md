@@ -1,3 +1,11 @@
 # Git and github laboratory
-Git practice laboratory
+
 Lorena Chewtat
+
+## Description
+
+Git practice laboratory, new header practice
+
+## Contents
+
+## References
