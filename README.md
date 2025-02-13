@@ -12,6 +12,9 @@ Git practice laboratory, new header practice
 
 ![charmander](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png)
 
+##### NEW IMAGE
+![charizard](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png)
+
 ### code examples
 
 ```
